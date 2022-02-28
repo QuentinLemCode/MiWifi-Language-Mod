@@ -1,0 +1,3531 @@
+msgid 0x03BFD843
+msgstr ", waiting for Wi-Fi restart, ({$time}seconds)"
+
+msgid 0xD6371DC7
+msgstr "1. Network name"
+
+msgid 0x499BFE43
+msgstr "1. Obtain domain name and password using DDNS service provider "
+
+msgid 0x77724F08
+msgstr ""
+"1. Username, password, server address, and protocol type are provided by VPN"
+" service providers."
+
+msgid 0x73650985
+msgstr ""
+"1. Make sure Mi Wi-Fi is connected to the internet via network cable"
+
+msgid 0x8CE9AC5D
+msgstr ""
+"1. Connect Mi Wi-Fi's WAN port to existing router via ethernet cable"
+
+msgid 0x9CB68286
+msgstr ""
+"1. Create an account on the VPN service provider's website and get your"
+" username, password, server address, and protocol type."
+
+msgid 0x73108AE7
+msgstr "1. Check if network cable is connected properly"
+
+msgid 0xD5EC1657
+msgstr "2. Turn on DDNS, add a server, enter server settings and save."
+
+msgid 0x907F0827
+msgstr "2. IP address"
+
+msgid 0x176B94B7
+msgstr "2.4G options"
+
+msgid 0x770F1813
+msgstr "Connected devices"
+
+msgid 0x02AA05D5
+msgstr ""
+"2. If you're not sure about VPN protocol type, choose automatically."
+
+msgid 0x92B5CFE1
+msgstr "2. Add required data and start using VPN"
+
+msgid 0xC285B5F1
+msgstr ""
+"2. Make sure Mi Wi-Fi and existing router are connected to the same network."
+
+msgid 0x88DE8E3E
+msgstr "2. Check if network cable is damaged"
+
+msgid 0x5B576E57
+msgstr "3. To view router settings, go to miwifi.com"
+
+msgid 0x32150992
+msgstr "3. Some features and plug-ins may be screened in amplifier mode"
+
+msgid 0x76E58226
+msgstr ""
+"3. The address may be a URL or an IP address, contact your provider for"
+" details."
+
+msgid 0x261C7AC3
+msgstr "3. Check if router's WAN port is damaged"
+
+msgid 0x41C3B3B5
+msgstr "Couldn't turn on 5G Wi-Fi"
+
+msgid 0x8D91ECA8
+msgstr ""
+"5G Wi-Fi is faster and better for your TV or other devices not far from the"
+" router"
+
+msgid 0xDED1AF76
+msgstr "5G options"
+
+msgid 0x791F5318
+msgstr "Connected devices"
+
+msgid 0xE8898171
+msgstr "Android app"
+
+msgid 0x229E09EC
+msgstr "CPU"
+
+msgid 0xA66AA062
+msgstr "DDNS (Dynamic Domain Name Server)"
+
+msgid 0xA0FEAA7A
+msgstr "DHCP server"
+
+msgid 0x358F7D50
+msgstr "DHCP server and local IP settings"
+
+msgid 0xF06510AA
+msgstr "DHCP error"
+
+msgid 0xFC7297B8
+msgstr "DCHP server is not responding"
+
+msgid 0x6C124340
+msgstr "DHCP lease time must be between 2 and 2880 minutes (48 hours)"
+
+msgid 0x86129EB5
+msgstr "DHCP static IP assignment"
+
+msgid 0xE7A20A6F
+msgstr "DMZ IP address"
+
+msgid 0xF1FD1A5A
+msgstr "DMZ status: "
+
+msgid 0xADDB9E7A
+msgstr "Couldn't connect to DNS server"
+
+msgid 0x6E791823
+msgstr "DNS server isn't responding"
+
+msgid 0x3C29D0A2
+msgstr "DNS server error, try to set Google DNS 8.8.8.8 instead."
+
+msgid 0x160983FD
+msgstr "DNS: "
+
+msgid 0xAC51C3AB
+msgstr "Ethernet adapter"
+
+msgid 0x09055EA5
+msgstr "Ethernet switch"
+
+msgid 0x31629095
+msgstr "IP/MAC address is invalid"
+
+msgid 0x3498DCAA
+msgstr "IP and MAC"
+
+msgid 0xF04BFFE3
+msgstr "IP address"
+
+msgid 0x9AA16718
+msgstr "IP address invalid"
+
+msgid 0x2E4CCD9D
+msgstr ""
+"There's conflict with your device's IP address and the IP address of another"
+" device on the network."
+
+msgid 0xA37C165E
+msgstr "Last digit of IP address"
+
+msgid 0x01CBB607
+msgstr ""
+"IP address consists of four numbers, each ranging from 0 to 255, separated"
+" by dots (e.g. 120.134.33.9) "
+
+msgid 0x4912729E
+msgstr "IP address: "
+
+msgid 0x6A9C4710
+msgstr "IP values must between 2 and 254 "
+
+msgid 0x55E9C91C
+msgstr "Internal server error"
+
+msgid 0x7D7B336C
+msgstr "MAC address"
+
+msgid 0x95412C20
+msgstr "MAC address is invalid"
+
+msgid 0x6BA518B7
+msgstr "MAC address clone"
+
+msgid 0x008C7438
+msgstr "MAC address clone settings"
+
+msgid 0x14636B01
+msgstr "MAC is a multicast address, enter again"
+
+msgid 0x8A05046A
+msgstr "MAC address format is invalid"
+
+msgid 0x479BB0E5
+msgstr "MAC address exceptions"
+
+msgid 0x9D892EE1
+msgstr "Couldn't remove MAC address"
+
+msgid 0xF532D56D
+msgstr "OSX"
+
+msgid 0x00B86953
+msgstr "MTU must be between 576 and 1492"
+
+msgid 0x7F4F27CE
+msgstr ""
+"MU-MIMO (Multi-User Multiple-Input Multiple-Output) and Beamforming"
+" technologies allow the router communicate with several terminals at the"
+" same time to improve wireless resources utilization efficiency and Wi-Fi"
+" experience. Both Router and terminals are needed to use this feature."
+" Turning it on will also enable MU-MIMO and Beamforming."
+
+msgid 0xF822652B
+msgstr "Not found"
+
+msgid 0x01DC3CC7
+msgstr "Windows"
+
+msgid 0x9BEBBE9C
+msgstr "PPPoE settings"
+
+msgid 0x9FF2C1E2
+msgstr "Error 678: PPPoE username or password incorrect"
+
+msgid 0xA6EBEA9F
+msgstr "Error 691: PPPoE username or password incorrect"
+
+msgid 0x5FFFA0B4
+msgstr "PPPoE couldn't dial (Error 678)"
+
+msgid 0xBB058743
+msgstr "PPPoE couldn't dial (Error 691)"
+
+msgid 0x405462D4
+msgstr "PPPoE disconnected (Error 250)"
+
+msgid 0x879BD41B
+msgstr ""
+"PPPoE doesn't allow a single account to be signed in at multiple places at"
+" the same time."
+
+msgid 0x2F8C0603
+msgstr ""
+"PPTP (Point to Point Tunneling Protocol) and L2TP (Layer 2 Tunneling"
+" Protocol) are tunneling protocols used to support virtual private networks"
+" (VPNs)."
+
+msgid 0x0343328C
+msgstr "Empty"
+
+msgid 0x243CA28F
+msgstr "The value you entered is invalid"
+
+msgid 0x26B64FAC
+msgstr "Please turn on QoS first"
+
+msgid 0x1147341F
+msgstr ""
+"QoS is a way to limit the amount of bandwidth given to individual devices"
+" connected to this network"
+
+msgid 0xE489A4F3
+msgstr "QoS allocation"
+
+msgid 0xA7F871B5
+msgstr "QoS"
+
+msgid 0x9A7C3CC6
+msgstr "The object you requested was not found."
+
+msgid 0x954F1622
+msgstr "Server encountered an error"
+
+msgid 0xF4B78292
+msgstr "TCP and UDP"
+
+msgid 0xF5A06E2D
+msgstr "Tunner interface"
+
+msgid 0xAB8B8B5B
+msgstr "UPnP is off"
+
+msgid 0xD71D26BA
+msgstr "Plug and Play status"
+
+msgid 0xB2EAE041
+msgstr "UPnP devices"
+
+msgid 0x9913E38C
+msgstr "USB storage"
+
+msgid 0xB72DB525
+msgstr "Can't dispatch"
+
+msgid 0xE8B309DC
+msgstr "Not managed"
+
+msgid 0x115ED580
+msgstr "VLAN interface"
+
+msgid 0x7A5CCF05
+msgstr "VPNs"
+
+msgid 0x9204C1B8
+msgstr ""
+"VPN is a remote access technology. E.g., it can be used to access your"
+" company's network when you're on a business trip."
+
+msgid 0xA9817C91
+msgstr "Couldn't apply VPN settings"
+
+msgid 0x4AB78532
+msgstr "WAN port speed settings"
+
+msgid 0x7FA203B4
+msgstr "WAN port speed"
+
+msgid 0x88CF1965
+msgstr "Wi-Fi strength"
+
+msgid 0x9C4084EF
+msgstr "Dual-band Wi-Fi"
+
+msgid 0x95D77F4C
+msgstr "Network name"
+
+msgid 0x2AF5B267
+msgstr "Password"
+
+msgid 0xACAC3C85
+msgstr "Wi-Fi settings"
+
+msgid 0xB10B5D0B
+msgstr "Wi-Fi networking devices"
+
+msgid 0xA852DE07
+msgstr "Wi-Fi network created, connect manually"
+
+msgid 0xDEBBBA27
+msgstr ""
+"Dual-band Wi-Fi off, 5G network name will be similar to that of 2.4G"
+" (example_5G). You can change that in Settings."
+
+msgid 0x5AC590A8
+msgstr "Wi-Fi name"
+
+msgid 0xEC070818
+msgstr "Wi-Fi Password"
+
+msgid 0x31B2AE50
+msgstr "Wi-Fi password must be at least 8 characters long"
+
+msgid 0x224FE427
+msgstr "Wi-Fi password must be 5 or 13 characters long."
+
+msgid 0x81A783B0
+msgstr "Wi-Fi password must be 8-63 characters long"
+
+msgid 0x69363CFE
+msgstr "Couldn't apply password"
+
+msgid 0x3F9697E1
+msgstr "Couldn't apply Wi-Fi settings"
+
+msgid 0xEA28FF20
+msgstr "Wireless adapter"
+
+msgid 0xB0EAE75E
+msgstr "Wireless network"
+
+msgid 0xC5A66961
+msgstr "Datacenter error"
+
+msgid 0x8B12F74E
+msgstr "Datacenter service works abnormally"
+
+msgid 0xE72A081B
+msgstr "iOS"
+
+msgid 0x581C6C25
+msgstr "Invalid app ID"
+
+msgid 0xA993BBB2
+msgstr "Invalid device ID"
+
+msgid 0x018BECDD
+msgstr "Couldn't find file"
+
+msgid 0x669FBA01
+msgstr "Couldn't find image"
+
+msgid 0x240C760E
+msgstr "You don't have permissions for this action."
+
+msgid 0x5592F040
+msgstr "Nonce verification error"
+
+msgid 0xECAD0E65
+msgstr "Oops! Make sure you haven't missed any required fields."
+
+msgid 0xC40027EB
+msgstr "Resource isn't ready"
+
+msgid 0xCF61329F
+msgstr "Universal Plug and Play (UPnP)"
+
+msgid 0x5D7AB352
+msgstr "Wi-Fi settings (network name and password)"
+
+msgid 0x7C1984FF
+msgstr "dd/mm/yyyy hh:mm:ss"
+
+msgid 0x929222B1
+msgstr "{$0} is invalid."
+
+msgid 0x026CDDE7
+msgstr "{$day}/{$month}/{$year} {$hour}:{$min}:{$sec}"
+
+msgid 0x834FD120
+msgstr "User Experience Improvement Program"
+
+msgid 0xC2D98B81
+msgstr "Terms of Service"
+
+msgid 0xEB233FE5
+msgstr "Wireless amplifier"
+
+msgid 0x1EA0CA23
+msgstr "Add"
+
+msgid 0x4C91D58E
+msgstr "Uploads"
+
+msgid 0x51384800
+msgstr "Upload speed"
+
+msgid 0x2610406E
+msgstr "Upload size can't exceed 128MB"
+
+msgid 0x9610DA5D
+msgstr "Upload log"
+
+msgid 0x621D4427
+msgstr "Upload bandwidth"
+
+msgid 0x03920B47
+msgstr "Previous speed"
+
+msgid 0x65E00BDD
+msgstr "Another device on the network is using your router's IP address"
+
+msgid 0x4F88BE52
+msgstr "Internet info"
+
+msgid 0xA9F4AC0A
+msgstr "Connection"
+
+msgid 0xEB26AB0D
+msgstr "Network settings"
+
+msgid 0xABABBA39
+msgstr "Network settings (connection type, network account and password)"
+
+msgid 0x081554B7
+msgstr "Next"
+
+msgid 0x342907A1
+msgstr "Downloads"
+
+msgid 0x315D0137
+msgstr "Couldn't download"
+
+msgid 0x30639E6A
+msgstr "Download APP"
+
+msgid 0xCAD17FE7
+msgstr "Download Mi Wi-Fi app"
+
+msgid 0x151FDC1C
+msgstr "Download speed"
+
+msgid 0x7089C1EA
+msgstr "Download log"
+
+msgid 0x9090C8EB
+msgstr "Can't access content. Check your internet connection and try again."
+
+msgid 0xA1A8911B
+msgstr "Download bandwidth"
+
+msgid 0xDE5BE367
+msgstr "This language isn't supported yet."
+
+msgid 0x6B9D9C2D
+msgstr "Can't contain Chinese characters."
+
+msgid 0xFFADF799
+msgstr "Same as Wi-Fi password"
+
+msgid 0xCE545EB0
+msgstr "East Asian Standard Time"
+
+msgid 0xB7E4D3DC
+msgstr "Passwords don't match."
+
+msgid 0xB073298A
+msgstr "Mid"
+
+msgid 0x06D35FF8
+msgstr "Middle East Time Zone A"
+
+msgid 0xFC77CEE2
+msgstr "Middle East Time Zone B"
+
+msgid 0x1BFB0BD5
+msgstr "Malaysia Standard Time"
+
+msgid 0x22A41FD4
+msgstr "People's Republic of China"
+
+msgid 0x8B507F30
+msgstr "China Telecom"
+
+msgid 0xB13B36AC
+msgstr "China Telecom broadband customer service"
+
+msgid 0x7BCCD057
+msgstr "China Mobile"
+
+msgid 0xEA3321FE
+msgstr "China Mobile broadband customer service"
+
+msgid 0xDF5D0F8F
+msgstr "China Unicom"
+
+msgid 0xD8D12D13
+msgstr "China Unicom customer service"
+
+msgid 0x81FD2AF0
+msgstr "China Tietong"
+
+msgid 0x3C1AE8ED
+msgstr "Wi-Fi Amplifier settings"
+
+msgid 0x04BE2EE7
+msgstr "Amplifier password"
+
+msgid 0xB3BFCBEB
+msgstr "Amplifier mode (extend existing Wi-Fi)"
+
+msgid 0x4D5C9456
+msgstr "Error"
+
+msgid 0xC9CB2395
+msgstr "Can't turn off this setting under Wi-Fi amplifier mode"
+
+msgid 0x2D8746AE
+msgstr "Change network relay settings"
+
+msgid 0x79E47F88
+msgstr "Amplifier can only extend 2.4G Wi-Fi networks."
+
+msgid 0xBA299E91
+msgstr "Amplifier status"
+
+msgid 0x74EBCA4F
+msgstr "Switch amplifier target"
+
+msgid 0x5762E694
+msgstr "Wi-Fi amplifier info"
+
+msgid 0x4CA444EA
+msgstr "Amplifier settings"
+
+msgid 0x0D953C3E
+msgstr "Switch amplifier target"
+
+msgid 0x6BB06B62
+msgstr "Amplifier Error"
+
+msgid 0xD2B56805
+msgstr "Samoa Time Zone"
+
+msgid 0xE2591190
+msgstr "Host name"
+
+msgid 0x4E4BD9E1
+msgstr "Name provided by ISP"
+
+msgid 0x690221B0
+msgstr "Primary router"
+
+msgid 0x590AFFEC
+msgstr "Internet"
+
+msgid 0xA033535E
+msgstr "What is DDNS?"
+
+msgid 0x3520293A
+msgstr "What is VPN"
+
+msgid 0xD0B5877A
+msgstr "Devices that only support WPA security can't connect"
+
+msgid 0x04C6DF73
+msgstr "Choose device"
+
+msgid 0x9EB59A0F
+msgstr "Restore router settings"
+
+msgid 0x6CCB70DC
+msgstr "Import ISP settings from existing router"
+
+msgid 0x6B03124B
+msgstr "Couldn't import ISP settings from existing router"
+
+msgid 0x0F568CE9
+msgstr "ISP settings imported succesfully"
+
+msgid 0xEECDB5E4
+msgstr "Import from existing router"
+
+msgid 0xD798E39D
+msgstr "Add devices from the device list"
+
+msgid 0xF16EBF0E
+msgstr "Task name"
+
+msgid 0x588C44E5
+msgstr "Task Manager"
+
+msgid 0x8A301FC7
+msgstr "Iran Standard Time"
+
+msgid 0xEC722850
+msgstr "Good"
+
+msgid 0x2D3253E3
+msgstr "Give priority to ensuring the speed of playing games"
+
+msgid 0xC7F671FB
+msgstr "Give priority to ensuring the speed of browsing the Webpages"
+
+msgid 0xDF0D5533
+msgstr "Give priority to video downloads"
+
+msgid 0x0B2F67A5
+msgstr "Priority"
+
+msgid 0xE1E4D982
+msgstr "Give priority to selected devices"
+
+msgid 0x4EB2D149
+msgstr "Give more bandwidth to devices with higher priority"
+
+msgid 0x63791938
+msgstr "Mi Wi-Fi must be connected to storage device."
+
+msgid 0x442A7E8F
+msgstr "Location"
+
+msgid 0x0FB96A45
+msgstr "Low"
+
+msgid 0xBCDD4A54
+msgstr "Cape Verde Time"
+
+msgid 0xAFE94E92
+msgstr "Send without making changes?"
+
+msgid 0x03760D05
+msgstr "Connect Ethernet cable now."
+
+msgid 0x01FF65AE
+msgstr "You can choose which services or devices can use VPN traffic"
+
+msgid 0x1B9D7E64
+msgstr "Manage router settings"
+
+msgid 0x38540F3B
+msgstr ""
+"Some older devices may not be able to connect to router with the channel"
+" selected"
+
+msgid 0x9ADBD2E9
+msgstr "No file selected "
+
+msgid 0xB15B0B0C
+msgstr ""
+"If you disable Javascript, you won't be able to miwifi.com to manage your"
+" router."
+
+msgid 0x3A7FE5C4
+msgstr "Router is up to date."
+
+msgid 0x1C53434E
+msgstr "Delete this item?"
+
+msgid 0x35D726CA
+msgstr "Clear bandwidth management settings for devices?"
+
+msgid 0x6B9E58FA
+msgstr "Remove this item?"
+
+msgid 0xA1EADE4A
+msgstr "Remove this device?"
+
+msgid 0x0A6F6E0B
+msgstr "Choose a device"
+
+msgid 0x6CF62FF2
+msgstr "Router is still waking up"
+
+msgid 0x8047D07F
+msgstr "Download Miwifi app to discover all features"
+
+msgid 0x5521AE59
+msgstr "Russia"
+
+msgid 0xB610ECAF
+msgstr "Save"
+
+msgid 0xEB5A7304
+msgstr "Saving…"
+
+msgid 0x07C33BFA
+msgstr "Saved and applied"
+
+msgid 0x41B90674
+msgstr "Signal strength"
+
+msgid 0xBC3D9B64
+msgstr "Better coverage"
+
+msgid 0xBFF63414
+msgstr "Change Wi-Fi settings"
+
+msgid 0x17FC0C48
+msgstr "Change Wi-Fi settings"
+
+msgid 0xF14A7E09
+msgstr "Change admin password"
+
+msgid 0xD6C7FACE
+msgstr "Change router name"
+
+msgid 0x6FDE197C
+msgstr "Turn off"
+
+msgid 0xC029C8EF
+msgstr "Clone"
+
+msgid 0xE6515F25
+msgstr "Samba read"
+
+msgid 0x21C28353
+msgstr "PubYun.com (3322.org)"
+
+msgid 0xAE8D9D71
+msgstr "Company"
+
+msgid 0x95380DBA
+msgstr "Power off"
+
+msgid 0xBFFDBF9E
+msgstr ""
+"Wait until router's notification turns off before disconnecting power"
+" source."
+
+msgid 0x48A1B9EB
+msgstr "Turn off"
+
+msgid 0xE2EE33FB
+msgstr "Switch 2.4G off will switch Guest Wi-Fi off as well"
+
+msgid 0x9DFB0D23
+msgstr "Turning 2.4G Wi-Fi off will turn Guest Wi-Fi off as well"
+
+msgid 0xA82DC1EB
+msgstr "Turning Wi-Fi off will turn Guest Wi-Fi off as well"
+
+msgid 0xE4BBA267
+msgstr "Couldn't turn off"
+
+msgid 0x37720F6D
+msgstr "Applying settings…"
+
+msgid 0x05CBDDB1
+msgstr "Couldn't disable plug-in"
+
+msgid 0x0E35517C
+msgstr "Turn off router"
+
+msgid 0xFB8ACEE2
+msgstr "All devices will be disconnected from router's network."
+
+msgid 0x711FC92E
+msgstr "Additional"
+
+msgid 0x8FBE3105
+msgstr "Other exceptions (protocol mismatch, etc.)"
+
+msgid 0x373B130B
+msgstr "Memory"
+
+msgid 0xF4DF990E
+msgstr "Storage"
+
+msgid 0x5AEC1009
+msgstr "Type"
+
+msgid 0x923958A0
+msgstr "Frequency"
+
+msgid 0xB426AAAC
+msgstr "Internal beta"
+
+msgid 0x8EB9E086
+msgstr "Internal IP address"
+
+msgid 0x87843FE1
+msgstr "Internal IP address: "
+
+msgid 0x62B51BA1
+msgstr "Internal port"
+
+msgid 0x3A173E33
+msgstr "Something went wrong. Refresh the page and try again."
+
+msgid 0xC97D8517
+msgstr "Error"
+
+msgid 0x4AF2D28E
+msgstr "min"
+
+msgid 0x7CF8CA87
+msgstr " mins"
+
+msgid 0x4F7E0A6B
+msgstr "Switch"
+
+msgid 0x69840874
+msgstr ""
+"Guest Wi-Fi will be turned off when you switch to wireless amplifier mode"
+
+msgid 0xEB09C364
+msgstr ""
+"Guest Wi-Fi will be turned off when you switch to wired amplifier mode"
+
+msgid 0xDCAB2963
+msgstr "Change router to Wi-Fi extender"
+
+msgid 0x76082B93
+msgstr "Locale"
+
+msgid 0x3AB86895
+msgstr ""
+"This will change the router's Wi-Fi frequency. This setting will take effect"
+" after you reboot your router."
+
+msgid 0x66996C25
+msgstr "Set up guide"
+
+msgid 0xCB38E3DB
+msgstr "Couldn't complete set up"
+
+msgid 0x1D64D2C3
+msgstr "Deleted"
+
+msgid 0xC29F7E0B
+msgstr "You can still connect to the internet when router is in Safe mode."
+
+msgid 0x9753367B
+msgstr "Couldn't install update"
+
+msgid 0x879CE485
+msgstr ""
+"Solution 1: Restart your modem and router and reconnect to PPPoE in 5"
+" minutes"
+
+msgid 0x1B1C99F7
+msgstr ""
+"Solution 2: Connect using a PC or the old router, and then choose"
+" \"Disconnect\". Try connecting with Mi Wi-Fi after this."
+
+msgid 0x875EEEE8
+msgstr "Solution 3: Create a clone of your Mac address and try to reconnect"
+
+msgid 0x4A2BCD86
+msgstr "Solution 4: Adjust WAN port speed and reconnect"
+
+msgid 0x8FD9803D
+msgstr ""
+"Solution: Reconnect manually from miwifi.com, or restart router and connect"
+" automatically."
+
+msgid 0xD690D321
+msgstr "Join"
+
+msgid 0x919C2DFE
+msgstr "Encryption"
+
+msgid 0xDCA0912B
+msgstr "Canada"
+
+msgid 0xD0AD492B
+msgstr "Loading…"
+
+msgid 0x6B56FD95
+msgstr "Eastern Time Zone"
+
+msgid 0x76F0A787
+msgstr "Central Time Zone"
+
+msgid 0xDB5FCFE2
+msgstr "Mountain Time Zone"
+
+msgid 0x7F82983D
+msgstr "Couldn't verify update"
+
+msgid 0x674A1D9E
+msgstr "Couldn't update"
+
+msgid 0x08839A2B
+msgstr "Couldn't update. An error occurred or router storage is full."
+
+msgid 0x848A9710
+msgstr "Check for updates"
+
+msgid 0x13308CCE
+msgstr "Update available"
+
+msgid 0x041E8D51
+msgstr "Update router"
+
+msgid 0xA7FA35B0
+msgstr ""
+"This will take about 7 minutes. Router's notification light will turn blue"
+" when update is complete."
+
+msgid 0x25E66659
+msgstr "Protocol"
+
+msgid 0xDCC2E740
+msgstr "Protocol type"
+
+msgid 0x8F8AD2D0
+msgstr "South America Time Zone"
+
+msgid 0x8033049E
+msgstr "India"
+
+msgid 0x48A792BA
+msgstr "Indonesia"
+
+msgid 0xD6CD2E1A
+msgstr "India Standard Time"
+
+msgid 0x15D9AB24
+msgstr "Couldn't back up router settings"
+
+msgid 0xD221B345
+msgstr "Original password"
+
+msgid 0x030E4839
+msgstr "The password you entered is incorrect"
+
+msgid 0x6162B49E
+msgstr "Buy a 5G device at mi.com"
+
+msgid 0xE640CF40
+msgstr ""
+"There's conflict with this IP address and the IP address of another device"
+" on the network."
+
+msgid 0xB2E1EC07
+msgstr "Invalid entry"
+
+msgid 0x076E2F6B
+msgstr "Invalid entry"
+
+msgid 0x2B46B53D
+msgstr "Update available (size {$size})"
+
+msgid 0x78DD1970
+msgstr "Couldn't test network speed"
+
+msgid 0x31ED795D
+msgstr "Cancel"
+
+msgid 0x9A12D0FE
+msgstr "Cancel update"
+
+msgid 0xF0FFBE4A
+msgstr "Disconnect"
+
+msgid 0x16193337
+msgstr "This feature can only be used with active VPN connection"
+
+msgid 0x6CF20361
+msgstr "Only can use 1 DDNS service at a time"
+
+msgid 0xBEC18DE2
+msgstr "Take a few minutes to set up your router"
+
+msgid 0x2576CFCF
+msgstr ""
+"Use built-in DDNS service provider to get account username and password from"
+" Internet Service Provider's official website."
+
+msgid 0xFF556106
+msgstr "Add service address to decide which address' traffic go through VPN"
+
+msgid 0xB3C13D4D
+msgstr "Add device to decide which device's traffic go through VPN"
+
+msgid 0xC60BDBFB
+msgstr "Possible reasons"
+
+msgid 0xB9463D12
+msgstr "Check DNS server settings."
+
+msgid 0xA2D46FB9
+msgstr "May be problems with account multicast."
+
+msgid 0xBC02413C
+msgstr "Available backups"
+
+msgid 0xC3CA59A2
+msgstr "Recovery items"
+
+msgid 0xCE38F72A
+msgstr "How to reset network password"
+
+msgid 0x0C666FEA
+msgstr "Devices"
+
+msgid 0x25728368
+msgstr "Taiwan"
+
+msgid 0xEF11A691
+msgstr "Agree"
+
+msgid 0x852C0778
+msgstr "The router name you entered is too long"
+
+msgid 0x3D047249
+msgstr "Name"
+
+msgid 0x0382C98E
+msgstr "Router is updating"
+
+msgid 0xE8919A82
+msgstr "Agree to terms"
+
+msgid 0xBD07243E
+msgstr "Turn on"
+
+msgid 0x5E0E05EF
+msgstr "Couldn't power on router…"
+
+msgid 0x2758117C
+msgstr "Country code is invalid."
+
+msgid 0x2ED79D65
+msgstr "International date line"
+
+msgid 0xF4602F9D
+msgstr "Turkey"
+
+msgid 0x448BB755
+msgstr "Online"
+
+msgid 0xD77998FD
+msgstr "Router settings"
+
+msgid 0xBF6BF27C
+msgstr "Address"
+
+msgid 0xCD585ABA
+msgstr "City"
+
+msgid 0xE24DAF95
+msgstr "Domain name does not exist or Oray DDNS service is not active"
+
+msgid 0x9E1406B2
+msgstr "Check if the domain name is entered correctly"
+
+msgid 0x9FFC2113
+msgstr "Add"
+
+msgid 0x1F16CA2E
+msgstr "Mexico"
+
+msgid 0xFD4B11B1
+msgstr "Just a sec…"
+
+msgid 0x51C9F802
+msgstr "Just a sec…"
+
+msgid 0xD34624A2
+msgstr "Backup and recovery"
+
+msgid 0xE1C16872
+msgstr "Backup settings can be used after you flash or reset your router"
+
+msgid 0xE72F4639
+msgstr "Back up router settings"
+
+msgid 0x5AA072B7
+msgstr "Hawaii–Aleutian Time Zone"
+
+msgid 0xD2E96560
+msgstr ""
+"Invalid IP address. Your IP address should be within 1.0.0.0~126.255.255.255"
+" or 128.0.0.0~223.255.255.255"
+
+msgid 0x0F49156F
+msgstr "Can't connect to the internet"
+
+msgid 0xDB80A367
+msgstr "Internet speed"
+
+msgid 0x19C81794
+msgstr "Test internet connection"
+
+msgid 0x777764BF
+msgstr "Internet bandwidth"
+
+msgid 0x9A8706DA
+msgstr "Internet connection"
+
+msgid 0x9524065E
+msgstr "Connection status"
+
+msgid 0x09A57645
+msgstr "Internet settings"
+
+msgid 0x30AE554B
+msgstr "Couldn'y apply settings"
+
+msgid 0x5EED2BBB
+msgstr "WLAN speed"
+
+msgid 0xD7526E22
+msgstr "External ports"
+
+msgid 0x076F66D6
+msgstr ""
+"Wrong password entered multiple times. Future attempts will be blocked."
+
+msgid 0xDB904CBF
+msgstr "Atlantic Standard Time"
+
+msgid 0xC2D141D7
+msgstr "d"
+
+msgid 0x97D11C65
+msgstr "Pacific Standard Time A"
+
+msgid 0x99F3F00A
+msgstr "Pacific Standard Time B"
+
+msgid 0xBB3F37C0
+msgstr "Pacific Standard Time C"
+
+msgid 0x177D9D52
+msgstr "Pacific Standard Time D"
+
+msgid 0x2B270898
+msgstr "OK"
+
+msgid 0x4C931D71
+msgstr "How to use your Mi Wi-Fi storage"
+
+msgid 0x1FD8FAEC
+msgstr "Setting up DDNS"
+
+msgid 0xBA859BB1
+msgstr "How to set up a VPN"
+
+msgid 0x81C1CE9D
+msgstr ""
+"If downloading slows down router's network speed, you can tap \"pause all"
+" downloads\" to recovery."
+
+msgid 0x831AA76E
+msgstr "If you can't switch, visit"
+
+msgid 0xF9EB94CF
+msgstr "Venezuelan Standard Time"
+
+msgid 0xDA1B881C
+msgstr "Subnet mask"
+
+msgid 0xD9F2BF54
+msgstr "Subnet mask invalid"
+
+msgid 0xE5375E98
+msgstr "Subnet mask: "
+
+msgid 0x653D8A77
+msgstr "Bytes"
+
+msgid 0x675AB75D
+msgstr "Storage"
+
+msgid 0x0EE9B191
+msgstr "IP address conflict"
+
+msgid 0xA7E5043D
+msgstr "Bangladesh Standard Time"
+
+msgid 0xA5E94313
+msgstr "Security"
+
+msgid 0xC9C0AC7F
+msgstr ""
+"Install our client for PC or Mac and access Mi Wi-Fi's hard drive easily"
+
+msgid 0xBBB0ACC7
+msgstr ""
+"Using our mobile app is another cool way to browse your photos and videos"
+
+msgid 0x8C2F5622
+msgstr "Complete"
+
+msgid 0x4A9307C6
+msgstr "Official WeChat"
+
+msgid 0x030711A8
+msgstr "Official Sina Weibo"
+
+msgid 0x011884C2
+msgstr "Offical site"
+
+msgid 0xE80F30C9
+msgstr "Upstream"
+
+msgid 0x72B0C266
+msgstr "Downstream"
+
+msgid 0xAF696118
+msgstr "Traffic Status"
+
+msgid 0x4F528EA6
+msgstr "Client IP"
+
+msgid 0xD2D4BACD
+msgstr "Home"
+
+msgid 0x422D768B
+msgstr "Contact your Internet Service Provider."
+
+msgid 0xB64F84AE
+msgstr "Broadband dialer error"
+
+msgid 0x032A45CC
+msgstr "Broadband dialer mutlicast error"
+
+msgid 0x361B681F
+msgstr "Bandwidth"
+
+msgid 0xE3188805
+msgstr "ISP service error"
+
+msgid 0x4CDB6400
+msgstr "Broadband"
+
+msgid 0x0706A106
+msgstr "Broad Netcom customer service"
+
+msgid 0x7BC61695
+msgstr "Password"
+
+msgid 0x0A307AD6
+msgstr "Password can't be empty"
+
+msgid 0xC9E25910
+msgstr "The password you entered is incorrect."
+
+msgid 0xD06AE6AB
+msgstr "The password you entered is invalid."
+
+msgid 0x31439F2B
+msgstr "Mi Wi-Fi couldn't connect to the network"
+
+msgid 0x032CC900
+msgstr "Sorry, MiWi-Fi doesn't support Internet Explorer 6 anymore"
+
+msgid 0xE7878D05
+msgstr "hr"
+
+msgid 0x11FF007E
+msgstr "Mi Wi-Fi Amplifier"
+
+msgid 0xD7C7130B
+msgstr "VPN for Mi services"
+
+msgid 0x2444C657
+msgstr "MiWi-Fi Router"
+
+msgid 0xE0E15E01
+msgstr "Mi Wi-Fi 2"
+
+msgid 0xAF23C2EA
+msgstr "Mi Wi-Fi 3"
+
+msgid 0xEAE534B3
+msgstr "Mi Wi-Fi 3 Pro"
+
+msgid 0x116B7CA8
+msgstr "Mi Wi-Fi 3C"
+
+msgid 0x3E870AD4
+msgstr "Mi Wi-Fi Mini"
+
+msgid 0xFEB16ADF
+msgstr "Router WAN port"
+
+msgid 0x51A7990F
+msgstr "Router settings"
+
+msgid 0x9F21F03C
+msgstr "Router running in Safe mode"
+
+msgid 0x1318FB46
+msgstr "Mi Wi-Fi technical support"
+
+msgid 0x2E1F5E18
+msgstr "Router doesn't have an internet connection."
+
+msgid 0x4EDF89F7
+msgstr "Getting update…"
+
+msgid 0xC4233A0A
+msgstr "Router IP"
+
+msgid 0x27C7F00A
+msgstr "Router network"
+
+msgid 0x37451B77
+msgstr "Just a sec…"
+
+msgid 0xE10145DE
+msgstr "Mi Wi-Fi Nano"
+
+msgid 0x58F89278
+msgstr "Some devices may not support Chinese or other special characters"
+
+msgid 0xBA051B5F
+msgstr "Couldn't test router mode"
+
+msgid 0x4F708F87
+msgstr "Couldn't test wireless amplifier"
+
+msgid 0xAA07D049
+msgstr "Couldn't test Wi-Fi amplifier"
+
+msgid 0xF0EB3CFD
+msgstr "Reboot your modem and try again."
+
+msgid 0xB3B1EC91
+msgstr "Nepal Standard Time"
+
+msgid 0x00AE42E1
+msgstr "LAN IP address"
+
+msgid 0xA83EA4C1
+msgstr "LAN IP address is invalid"
+
+msgid 0xCA204B59
+msgstr "LAN and WAN can't be at the same network segment."
+
+msgid 0xE7407301
+msgstr "LAN IP address"
+
+msgid 0x91130E4E
+msgstr "LAN IP will be changed to"
+
+msgid 0x7044DD76
+msgstr "LAN settings"
+
+msgid 0xFFBF3E13
+msgstr "Router settings conflict"
+
+msgid 0x403FCA44
+msgstr "Switch"
+
+msgid 0x007C371D
+msgstr "Poor"
+
+msgid 0x4BAE1E06
+msgstr "On"
+
+msgid 0x951324C3
+msgstr "Disconnected"
+
+msgid 0xE71F1028
+msgstr "Applied"
+
+msgid 0x00C2A2ED
+msgstr "Used"
+
+msgid 0xD8671243
+msgstr "Reboot router to apply update."
+
+msgid 0x5C40885F
+msgstr "Couldn't cancel. Update has already been installed."
+
+msgid 0x4B989B15
+msgstr "Router is updating in the background."
+
+msgid 0xDE29CD26
+msgstr "Connected devices"
+
+msgid 0x238F8820
+msgstr "Connected"
+
+msgid 0xD00EE777
+msgstr "Brazil"
+
+msgid 0x1159D655
+msgstr "Brasília time"
+
+msgid 0x5A9D65D3
+msgstr "Broadband"
+
+msgid 0xA57DBC6E
+msgstr "Settings"
+
+msgid 0x7D916B3B
+msgstr "FAQ"
+
+msgid 0x78213955
+msgstr "year"
+
+msgid 0xEF3F4070
+msgstr "App"
+
+msgid 0x191E5757
+msgstr "App name"
+
+msgid 0x32F3B0B8
+msgstr ""
+"Back up any data stored on router and try restoring your router to its"
+" factory settings."
+
+msgid 0x836DCA51
+msgstr "Reboot modem and try again."
+
+msgid 0x29075228
+msgstr "Switch"
+
+msgid 0x421A1EA5
+msgstr "Beta"
+
+msgid 0x62433604
+msgstr "Start"
+
+msgid 0x4A9BDCAC
+msgstr "Turn on DMZ to relay a connected device's IP to WAN."
+
+msgid 0xE3E18060
+msgstr "Test internet connection before turning this feature on."
+
+msgid 0x0D283DBD
+msgstr "Networks are completely independent from each other."
+
+msgid 0x8718B9C2
+msgstr ""
+"When the feature is on, 2.4G and 5G networks will share a name. The router"
+" will choose the best available signal. For example, it will switch to 5G"
+" network if the device is close, and to 2.4G network if it's far away. Brief"
+" interruptions may occur during the switch"
+
+msgid 0x13743569
+msgstr ""
+"Turn on to switch to USB 3.0 mode. However, using USB 3.0 may affect 2.4GHz"
+" Wi-Fi signal. Unless you need it, you can keep this feature off and"
+" continue using USB 2.0."
+
+msgid 0xBA025C1A
+msgstr "Make sure your have proper permission to use this build."
+
+msgid 0xFEB35F86
+msgstr "Couldn't turn on plug-in"
+
+msgid 0x2290339C
+msgstr ""
+"Turn the white list on, it'll deny all access for other devices. Every time"
+" turn it on will add your current device into the white list."
+
+msgid 0xEE525C5C
+msgstr ""
+"Backup photos from your mobile device to Mi Wi-Fi automatically and have no"
+" worries about phone storage or traffic"
+
+msgid 0xF6F9AF8E
+msgstr "Turn on wall penetration mode"
+
+msgid 0xE02E6005
+msgstr "Turn on Guest Wi-Fi"
+
+msgid 0x36F421B1
+msgstr ""
+"After this feature is on, you'll have to reconnect to the VPN. QoS will be"
+" turned off. Turn this feature off in case the app misbehaves."
+
+msgid 0x81D9F66A
+msgstr "Start address"
+
+msgid 0x3C39D363
+msgstr "Connect to network"
+
+msgid 0x66AED0F4
+msgstr "Update now"
+
+msgid 0x164DBA0F
+msgstr "Back up"
+
+msgid 0x7D178F4F
+msgstr "Start recovery"
+
+msgid 0x136A1A16
+msgstr "Connect automatically when the device is on"
+
+msgid 0xD7970ABA
+msgstr "Set up"
+
+msgid 0x4499F267
+msgstr "Important update"
+
+msgid 0x1C160174
+msgstr "Update domain name and IP"
+
+msgid 0x520F6D27
+msgstr "Interval"
+
+msgid 0x85016C3F
+msgstr "Check WAN port and IP"
+
+msgid 0x05204083
+msgstr "Strong (WPA2-personal)"
+
+msgid 0x58CD6F68
+msgstr ""
+"When you need VPN to connect to the Internet, turn this feature on to make"
+" sure Mi Wi-Fi app is able to connect to the router. In other cases turn"
+" this feature off."
+
+msgid 0x1E0B695D
+msgstr "CPU"
+
+msgid 0x01614E39
+msgstr "CPU load"
+
+msgid 0x503A51B0
+msgstr "Bandwidth manager is off"
+
+msgid 0x0005B8BE
+msgstr "Amplifier mode, repeat quality:"
+
+msgid 0x2DBA0D84
+msgstr "Current MAC address"
+
+msgid 0x14EA85D8
+msgstr "Used"
+
+msgid 0xCF705833
+msgstr "Storage"
+
+msgid 0x81FE1B7D
+msgstr "Can't set up network amplifier"
+
+msgid 0x73F046F4
+msgstr "Router will be reverted to previous settings."
+
+msgid 0x482A209D
+msgstr "Router can only switch to base station mode."
+
+msgid 0x0A683187
+msgstr "This network may not support DHCP."
+
+msgid 0x45141F97
+msgstr "Current time"
+
+msgid 0x8DCDB9B1
+msgstr "Guest mode is off"
+
+msgid 0xD654DB9F
+msgstr "5G devices not connected"
+
+msgid 0xE449EDE5
+msgstr "VPN disconnected. Connect again to apply settings."
+
+msgid 0x0972CBC1
+msgstr "No connected devices"
+
+msgid 0x7792F3B4
+msgstr "Version {$romVersion}, {$ret}"
+
+msgid 0x22C3D4F1
+msgstr "You can change MAC addresses for these devices manually"
+
+msgid 0x74CABD47
+msgstr "Client"
+
+msgid 0x31DDFCBB
+msgstr "Speed"
+
+msgid 0x2AAAB213
+msgstr ""
+"Internet connection is over 50Mbp. No need to turn on QoS traffic manager."
+
+msgid 0x9CA717BF
+msgstr ""
+"When your network speed reaches 80Mbps or higher, you can turn on Hardware"
+" NAT to boost speed. QoS, Speed limit, and Real-time speed won't work in"
+" this case. Make sure you need Hardware NAT before you turn it on."
+
+msgid 0x8AA5B8EE
+msgstr "Germany"
+
+msgid 0xF1A5F0CD
+msgstr "Required"
+
+msgid 0xFD72664B
+msgstr "This feature can only be used by users with paid accounts"
+
+msgid 0xC4A4AA97
+msgstr "Enter full URL (e.g. http://miwifi.com)"
+
+msgid 0x84553919
+msgstr "Only users with paid accounts can use offline features"
+
+msgid 0xEDB3E4B9
+msgstr "Forgot password"
+
+msgid 0x6E006FC2
+msgstr "Total upload"
+
+msgid 0xA4ADEA1C
+msgstr "Total download"
+
+msgid 0x1DA7DDCE
+msgstr "Capacity"
+
+msgid 0x03751186
+msgstr "Restore"
+
+msgid 0xD4133496
+msgstr "Factory data reset"
+
+msgid 0x7D22F93F
+msgstr ""
+"All settings will be deleted. Create a backup before you restore factory"
+" settings"
+
+msgid 0xAF852DCD
+msgstr "Restored to factory settings"
+
+msgid 0x314941A4
+msgstr "Connected to the network successfully."
+
+msgid 0xCE36E548
+msgstr "Router set up as a wireless relay station."
+
+msgid 0x3D4AE2C8
+msgstr "Router set up as a relay station."
+
+msgid 0x7C64B036
+msgstr "Router switched to base station mode."
+
+msgid 0x82F8606B
+msgstr "This device won't be able to connect to the network."
+
+msgid 0xDDE1C543
+msgstr "Added"
+
+msgid 0xEA884F50
+msgstr "Add devices exceptions list now."
+
+msgid 0x4A41304C
+msgstr ""
+"After you apply these settings, this device won't be able to connect to the"
+" network."
+
+msgid 0xEA621B65
+msgstr "Your router isn't associated with a Mi Account."
+
+msgid 0x0842C74F
+msgstr "Input range vaild"
+
+msgid 0xAF8C0C4A
+msgstr "Restore your router to its factory settings."
+
+msgid 0x6B6A458D
+msgstr "Italy"
+
+msgid 0x303CB0F5
+msgstr "Already connected. Continue"
+
+msgid 0xC43129CC
+msgstr "Try another browser:"
+
+msgid 0xA24AD91D
+msgstr "or"
+
+msgid 0x545FAAE4
+msgstr "End date can't be earlier than start date"
+
+msgid 0x46DA5F19
+msgstr "Update manually"
+
+msgid 0xFA1872ED
+msgstr "Update manually"
+
+msgid 0x369462EA
+msgstr "Configure manually"
+
+msgid 0x60DF8AF3
+msgstr "Configure DNS manually"
+
+msgid 0x284445CD
+msgstr "Change"
+
+msgid 0x99D82762
+msgstr "Manage internet bandwidth manually"
+
+msgid 0x98A3F157
+msgstr "Add manually"
+
+msgid 0xF5CB65B1
+msgstr "Set router bandwidth"
+
+msgid 0xDE579EDA
+msgstr "Enter network name manually"
+
+msgid 0x5E22CACC
+msgstr "Manage bandwidth manually"
+
+msgid 0x979C8E4D
+msgstr "Scan QR code to download"
+
+msgid 0x965E709D
+msgstr "Turn on Guest network and 2.4G Wi-Fi"
+
+msgid 0xFEC6FD06
+msgstr "Turning on Guest Wi-Fi will turn on 2.4G Wi-Fi as well"
+
+msgid 0x6BDC62EC
+msgstr "To perform this action, your IP will be changed to"
+
+msgid 0x95B85A48
+msgstr "Couldn't find selected amplifier network"
+
+msgid 0xF529CB04
+msgstr "Couldn't dial"
+
+msgid 0xA96A8D59
+msgstr "Couldn't dial (Error"
+
+msgid 0x33C018CB
+msgstr "Dialed successfully"
+
+msgid 0x12AFAB80
+msgstr "Connection error"
+
+msgid 0x79C00BDE
+msgstr "Couldn't get dialer status"
+
+msgid 0xEDF4204A
+msgstr "Traffic by service"
+
+msgid 0x2F7932AE
+msgstr "Traffic by device"
+
+msgid 0xC7940E52
+msgstr "There's a problem with the Ethernet cable you've connected."
+
+msgid 0x81E8A529
+msgstr "Control mode"
+
+msgid 0x68BA9320
+msgstr "Try switching to wired amplifier mode"
+
+msgid 0x8A5AED33
+msgstr "Recommended settings"
+
+msgid 0x520350C8
+msgstr "Attention"
+
+msgid 0x446353B6
+msgstr "Attention"
+
+msgid 0x8B239E45
+msgstr "Some features and plug-ins will be screened in amplifier mode"
+
+msgid 0x00DBF314
+msgstr "These settings can be adjusted in \"Router settings\""
+
+msgid 0xA906D1E6
+msgstr ""
+"Disconnect Mi router with your old router, then connect ISP’s LAN to Mi"
+" router’s  WAN port (blue)"
+
+msgid 0x1D19CC08
+msgstr "Apply"
+
+msgid 0xC51E0E49
+msgstr "Something went wrong"
+
+msgid 0xB7C68DF9
+msgstr "Couldn't complete this action. This device may be disconnected."
+
+msgid 0xE62FC187
+msgstr "Settings applied"
+
+msgid 0xF96D6230
+msgstr "Waiting to reboot…"
+
+msgid 0x3EA48055
+msgstr "Too many attempts, try again in 30 minutes"
+
+msgid 0x704F7BD1
+msgstr "Give up"
+
+msgid 0x4232204E
+msgstr ""
+"Look's like there's an additional \"0\" at the beginning of the value you"
+" entered."
+
+msgid 0x6F83358C
+msgstr "Use the following format \"{$0}\""
+
+msgid 0x1E4C8E3F
+msgstr "Couldn't verify file's MD5 value"
+
+msgid 0x3264FB51
+msgstr "Could upload file to server"
+
+msgid 0x06C46C91
+msgstr "Couldn't upload file"
+
+msgid 0x17AB0E40
+msgstr "Download files"
+
+msgid 0xAF4CDE2B
+msgstr "File doesn't exist or has been corrupted"
+
+msgid 0xDD5BF62D
+msgstr "File doesn't exist or has been corrupted. Try downloading again."
+
+msgid 0x20D1029E
+msgstr "Access and share files"
+
+msgid 0x30D030F1
+msgstr "Backup files"
+
+msgid 0x1ECFCACD
+msgstr "Couldn't verify file"
+
+msgid 0xBC749835
+msgstr "Invalid file format"
+
+msgid 0x838C6732
+msgstr "File types"
+
+msgid 0xC2F256DD
+msgstr "File system"
+
+msgid 0x30C9B4D6
+msgstr "Oversize file"
+
+msgid 0xE88FA129
+msgstr "Disconnect"
+
+msgid 0xA71AED9E
+msgstr "Disconnect"
+
+msgid 0xF16DB83E
+msgstr "Singapore"
+
+msgid 0x4303918A
+msgstr "New"
+
+msgid 0xA6CCFC30
+msgstr "New password and old password are identical"
+
+msgid 0xAE28EB4A
+msgstr "New backup"
+
+msgid 0xDD42F863
+msgstr "Network name"
+
+msgid 0x2297A4DF
+msgstr "Create port fowarding rules"
+
+msgid 0xFC0B95FC
+msgstr "Create range forwarding rules"
+
+msgid 0x4741F6D7
+msgstr "Fangzheng broadband"
+
+msgid 0xF381B01D
+msgstr "Not encrypted"
+
+msgid 0x3E492C35
+msgstr "Invalid ID"
+
+msgid 0x159CC2DE
+msgstr "Invalid parameter"
+
+msgid 0x391933D1
+msgstr "Can't connect to server"
+
+msgid 0x457395F4
+msgstr "Filter wireless MAC addresses"
+
+msgid 0xBC8FBB0C
+msgstr "Wireless amplifier"
+
+msgid 0x4AEBDCFD
+msgstr "Wireless amplifier mode"
+
+msgid 0x5FFD2243
+msgstr "Can't extend network."
+
+msgid 0x095A411B
+msgstr "Wireless channel"
+
+msgid 0xFEAFFACF
+msgstr "Coverate"
+
+msgid 0xEA73B82D
+msgstr "Wi-Fi network name and password are the same as the upper router"
+
+msgid 0x88A41747
+msgstr "Wireless access controls"
+
+msgid 0xF76A76DC
+msgstr "Wi-Fi Blocklist"
+
+msgid 0xB8769AF0
+msgstr "Unlimited"
+
+msgid 0x03797855
+msgstr "DCHP"
+
+msgid 0x1A1CD6A1
+msgstr "day"
+
+msgid 0x3BCD3E80
+msgstr "Log sent successfully"
+
+msgid 0x7FABC010
+msgstr "Date can't be earlier than {$0}"
+
+msgid 0x6202BF19
+msgstr "Date can't be later than {$0}"
+
+msgid 0xA7EB5AB1
+msgstr "Enter format \"YYYY-MM-DD\""
+
+msgid 0x8D77B967
+msgstr "Existing router WAN port"
+
+msgid 0x017BF61B
+msgstr "Broadband settings imported."
+
+msgid 0xBEC2CBE6
+msgstr "Existing router power source"
+
+msgid 0x214E8672
+msgstr "hr"
+
+msgid 0x82D42929
+msgstr "Time settings"
+
+msgid 0x55F988B6
+msgstr "Can't exceed {$0} days"
+
+msgid 0x952DD872
+msgstr "All devices will be disconnected from router."
+
+msgid 0x9B490F1D
+msgstr "Change mode?"
+
+msgid 0x57E47044
+msgstr "Primary base station (set up a Wi-Fi network)"
+
+msgid 0xE4516BE3
+msgstr "Regular router mode"
+
+msgid 0xFF89F359
+msgstr "Smart VPN"
+
+msgid 0xAF700AF1
+msgstr "QoS"
+
+msgid 0x8AD5FD24
+msgstr "Pause all downloads"
+
+msgid 0xE0E5D341
+msgstr "No updates available"
+
+msgid 0x97EC1663
+msgstr "No devices connected"
+
+msgid 0x44DA2B49
+msgstr "More contact info"
+
+msgid 0x76CD09F0
+msgstr "Switch Ethernet cables and try again."
+
+msgid 0x218EB9F9
+msgstr "Switched to broadband"
+
+msgid 0x7D243A0A
+msgstr "Change time zone"
+
+msgid 0x35D53655
+msgstr "Change time"
+
+msgid 0x37AFABDF
+msgstr "Update"
+
+msgid 0x4449BF5D
+msgstr "Updated successfully"
+
+msgid 0xA6377C96
+msgstr "What's new"
+
+msgid 0xA000D240
+msgstr "Use {$0} characters or less"
+
+msgid 0x9AE0D46E
+msgstr "Use {$0} characters or more"
+
+msgid 0x73A47D29
+msgstr "Can't add more than 5 items"
+
+msgid 0xBB6CBB40
+msgstr "Max speed"
+
+msgid 0x2FC9F859
+msgstr "Max download speed"
+
+msgid 0xDA66C50C
+msgstr "Last updated"
+
+msgid 0x01F8071E
+msgstr "month"
+
+msgid 0x1FCCA2F3
+msgstr "Wired amplifier"
+
+msgid 0x48BC661A
+msgstr "Wired amplifier mode"
+
+msgid 0x946552EC
+msgstr "View details"
+
+msgid 0x99BC8D4B
+msgstr "Network amplifier (extend existing network)"
+
+msgid 0xA9D24D37
+msgstr "Wired amplifier mode"
+
+msgid 0xE196763E
+msgstr "View details"
+
+msgid 0xB175F0F4
+msgstr "Can't extend network"
+
+msgid 0x5EC7C3C0
+msgstr "Cable modem service"
+
+msgid 0x9070348B
+msgstr "Servers"
+
+msgid 0x10F03C02
+msgstr "Name"
+
+msgid 0x24E6AE53
+msgstr "Server"
+
+msgid 0x51093DB1
+msgstr "A server error occured"
+
+msgid 0xB313AECC
+msgstr "Server address"
+
+msgid 0x73C94F2E
+msgstr "Sign in again"
+
+msgid 0x677DBC95
+msgstr "Couldn't connect to server"
+
+msgid 0x71B6F625
+msgstr "Service provider"
+
+msgid 0xF2630757
+msgstr "Internet Service Provider and host name"
+
+msgid 0xCF8DF29B
+msgstr "Support"
+
+msgid 0xC6A04C8F
+msgstr "Korea Standard Time"
+
+msgid 0x40061445
+msgstr "Can't force update"
+
+msgid 0x41A72EC1
+msgstr "Off"
+
+msgid 0xAEDED05B
+msgstr "Oray DDNS service hasn't been activated"
+
+msgid 0xF315E661
+msgstr "Couldn't find storage. Connect it to your Mi Wi-Fi via USB."
+
+msgid 0x521DCB4F
+msgstr "Not applied"
+
+msgid 0xD05A4A39
+msgstr "Can't detect Wi-Fi"
+
+msgid 0x24F826ED
+msgstr "Can't detect this Wi-Fi network"
+
+msgid 0x7541F5D6
+msgstr "Can't find info"
+
+msgid 0x6CEEB378
+msgstr "Can't detect connection type"
+
+msgid 0xD8726A1D
+msgstr "Couldn't get PPPoE account info"
+
+msgid 0xF172ACA2
+msgstr "Can't get router setting info"
+
+msgid 0x1DFF300A
+msgstr "Can't get permissions info"
+
+msgid 0x03AE48DB
+msgstr "Can't get user info"
+
+msgid 0xD87A418B
+msgstr "Couldn't get device info"
+
+msgid 0x32C88E8B
+msgstr "Couldn't connect to this network"
+
+msgid 0x6B94C9F5
+msgstr "None"
+
+msgid 0xC840FA66
+msgstr "Current device"
+
+msgid 0x899FF045
+msgstr "Chatham Standard Time"
+
+msgid 0xCF54D738
+msgstr "View full network"
+
+msgid 0x2D365599
+msgstr "Detail"
+
+msgid 0xF7AA2E30
+msgstr "Just a sec…"
+
+msgid 0xD386753A
+msgstr "Standard"
+
+msgid 0x01996956
+msgstr "Core frequency"
+
+msgid 0x4CF8FA67
+msgstr "Couldn't format router hard drive"
+
+msgid 0x3F066C9D
+msgstr "Greenwich Mean Time"
+
+msgid 0x4EABD1AD
+msgstr "Check if a different network is connected to WAN port"
+
+msgid 0xAB68D0D1
+msgstr "Site is busy. Refresh and try again."
+
+msgid 0xAE46AD5B
+msgstr "Couldn't check for updates"
+
+msgid 0xAAA55A69
+msgstr "IP conflict detected"
+
+msgid 0x00A49E33
+msgstr "IP conflict detected, try switching to"
+
+msgid 0x74E833B4
+msgstr "Update available: {$version}"
+
+msgid 0xBE8FD973
+msgstr "Hi there!"
+
+msgid 0x8718BFB1
+msgstr "Welcome"
+
+msgid 0xB1144EA4
+msgstr "Europe"
+
+msgid 0x864192C6
+msgstr "Eastern European Time"
+
+msgid 0x694840EC
+msgstr "Central European Time"
+
+msgid 0x78A29B02
+msgstr "Western European Time"
+
+msgid 0xA6039B3B
+msgstr "Gehua cable modem service"
+
+msgid 0x4BC3B589
+msgstr "Creating Wi-Fi"
+
+msgid 0xD72A636D
+msgstr "Creating 2. 4G & 5G Wi-Fi"
+
+msgid 0x82E87DCC
+msgstr "Updating…"
+
+msgid 0xB11B6A6A
+msgstr "Scanning storage， please wait"
+
+msgid 0xD71BA6EC
+msgstr "Checking for nearby devices…"
+
+msgid 0x737663A9
+msgstr "Dialing…"
+
+msgid 0x48808FF2
+msgstr "Dialing\\u2026"
+
+msgid 0x5267F82B
+msgstr "Checking…"
+
+msgid 0x6ECCD67D
+msgstr "Checking…"
+
+msgid 0x9A8DD488
+msgstr "Checking internet connection…"
+
+msgid 0xC7B390E1
+msgstr "Checking for updates…"
+
+msgid 0xD3D4DEF3
+msgstr "Checking settings…"
+
+msgid 0xA5E7C6B6
+msgstr "Testing connection speed…"
+
+msgid 0x1E04D3FC
+msgstr "Testing…"
+
+msgid 0xB2CEDD95
+msgstr "Organizing files…"
+
+msgid 0xDD6ED210
+msgstr "Just a sec…"
+
+msgid 0xD8A709D9
+msgstr ""
+"Whoa there~ you need to stay on this page until router finishes updating."
+
+msgid 0x4F20F8EA
+msgstr "Testing network…"
+
+msgid 0x6E89FABC
+msgstr "Some devices don't support his SSID"
+
+msgid 0xAC50F23F
+msgstr "This setting will take effect after you reboot your router."
+
+msgid 0x263F10F8
+msgstr "Restart is required to continue"
+
+msgid 0xFCACC77C
+msgstr "No Plug and Play devices"
+
+msgid 0x3B21BA23
+msgstr "No IP conflicts found"
+
+msgid 0xB0D4AA67
+msgstr "No updates available"
+
+msgid 0x6ECCF6F1
+msgstr "Insufficient permissions"
+
+msgid 0x392AABE7
+msgstr "A registered dynamic domain name is required."
+
+msgid 0x9F71ECCA
+msgstr "Not enough storage space"
+
+msgid 0x3BE39093
+msgstr "Insert storage now"
+
+msgid 0xF7129707
+msgstr "No settings info"
+
+msgid 0x5CB2F1EB
+msgstr "Not enough storage space"
+
+msgid 0x356C25C5
+msgstr "No task running"
+
+msgid 0xE960E789
+msgstr "France"
+
+msgid 0xD7E4CEAA
+msgstr "Follow"
+
+msgid 0x444B2FED
+msgstr "Sign out"
+
+msgid 0x2DFE24B7
+msgstr "Thailand"
+
+msgid 0xA7119D76
+msgstr "Couldn't test"
+
+msgid 0x13FC2BA0
+msgstr "Message box"
+
+msgid 0xF4265420
+msgstr "Mixed (WPA/WPA2-personal)"
+
+msgid 0xD2BAB1C9
+msgstr "Install"
+
+msgid 0x65943A40
+msgstr "Can't add more than 32 devices"
+
+msgid 0x2AD271D0
+msgstr "Add service"
+
+msgid 0x8E48ED3C
+msgstr "Add server address"
+
+msgid 0xB93BE534
+msgstr "Add VPN server address"
+
+msgid 0xB35E1D6F
+msgstr "Add rule"
+
+msgid 0xF39199CB
+msgstr "Game first"
+
+msgid 0x53581477
+msgstr "Australian Eastern Standard Time"
+
+msgid 0xF60900E1
+msgstr "Australian Central Standard Time"
+
+msgid 0xB8CBC134
+msgstr "Australian Western Standard Time"
+
+msgid 0x9D8DBB03
+msgstr "Update now"
+
+msgid 0x4BE650EE
+msgstr "Tap to test network"
+
+msgid 0x07D56027
+msgstr "Special ISP mode"
+
+msgid 0xF60A8313
+msgstr "Status"
+
+msgid 0x8D58F0B8
+msgstr "Couldn't get status info"
+
+msgid 0xE2478464
+msgstr "View status"
+
+msgid 0xD2AC5F8F
+msgstr "Check interval"
+
+msgid 0xBA3D4826
+msgstr "Vanuatu Time"
+
+msgid 0xE0C03B83
+msgstr "User Experience Improvement Program"
+
+msgid 0x2E607F0F
+msgstr "Terms of Service"
+
+msgid 0x72F8EF0B
+msgstr "Username"
+
+msgid 0x25139CCA
+msgstr "Username and password are provided by Internet Service Provider"
+
+msgid 0x6EE1773A
+msgstr "Username or password can't be empty"
+
+msgid 0x4013ED43
+msgstr "The username or password you entered is invalid"
+
+msgid 0x0790DEB2
+msgstr "Couldn't verify username or password"
+
+msgid 0xA8D503EC
+msgstr "Users"
+
+msgid 0x111F1688
+msgstr "Due to"
+
+msgid 0x5A7874EC
+msgstr "Can't set up port forwarding while DMZ is on"
+
+msgid 0xDD9885F2
+msgstr ""
+"The username was blocked due to the amount of outcoming spam traffic"
+
+msgid 0x1626D90C
+msgstr "Can't use DMZ while port forwarding is on"
+
+msgid 0xF84143E2
+msgstr "Couldn't sign in"
+
+msgid 0x07832829
+msgstr "Exceptions (allow these devices to connect to network)"
+
+msgid 0x18B229DA
+msgstr "Exceptions"
+
+msgid 0xE7C48D10
+msgstr "DDNS allows remote access to router using a static domain."
+
+msgid 0x145A2311
+msgstr "Target IP"
+
+msgid 0xACCC1931
+msgstr "Target IP"
+
+msgid 0x1150F787
+msgstr "Restore factory settings"
+
+msgid 0xC6D88B5E
+msgstr "Capital"
+
+msgid 0xDDE5C0F4
+msgstr "Hardware NAT (HwNAT)"
+
+msgid 0xEF37E01E
+msgstr "Hard drive interface"
+
+msgid 0x3652C5D8
+msgstr "OK"
+
+msgid 0x00767AFA
+msgstr "Delete this rule?"
+
+msgid 0x3AE172EF
+msgstr "Delete this item?"
+
+msgid 0xEA2A3176
+msgstr ""
+"Restore router to it's factory settings? You can't reverse this action."
+
+msgid 0xE06A1553
+msgstr "Devices will be disconnected from network while router reboots."
+
+msgid 0x6AEDDD7C
+msgstr "OK"
+
+msgid 0x3814A72F
+msgstr "Confirm info"
+
+msgid 0xB19B521E
+msgstr "Confirm password"
+
+msgid 0x2E77E79B
+msgstr "Unpair selected devices?"
+
+msgid 0x128F648A
+msgstr "Couldn't fix hard drive"
+
+msgid 0x71E96256
+msgstr "Offline"
+
+msgid 0xFFEC254B
+msgstr "s"
+
+msgid 0xBD22C112
+msgstr "Lease time"
+
+msgid 0xCF7F8702
+msgstr "Lease time (minutes)"
+
+msgid 0x57A0E22D
+msgstr "Remove"
+
+msgid 0x04281D43
+msgstr "Stable"
+
+msgid 0x6B1EEC8B
+msgstr "Wall penetration"
+
+msgid 0xF683D95E
+msgstr "Download client"
+
+msgid 0x3B4D2CBB
+msgstr "Repair"
+
+msgid 0x31949EFF
+msgstr "Update"
+
+msgid 0x5F280FFE
+msgstr "Import"
+
+msgid 0x318950A1
+msgstr "Restore"
+
+msgid 0x34A1EC3E
+msgstr "Test"
+
+msgid 0xD61C3475
+msgstr "Test network"
+
+msgid 0xDCEEDA01
+msgstr "Connect"
+
+msgid 0x9AF67F90
+msgstr "Port conflict"
+
+msgid 0xD035046D
+msgstr "Port forwarding"
+
+msgid 0xEDBD1897
+msgstr "Can't use DMZ while port forwarding is on"
+
+msgid 0x22BF8DD5
+msgstr "Port forwarding rules:"
+
+msgid 0xA9F52CFA
+msgstr "1. Connect router to power source."
+
+msgid 0x073D729B
+msgstr "2. Connect Ethernet cable to Mi Wi-Fi."
+
+msgid 0xB0841D6D
+msgstr "2. Connect Ethernet cable to existing router's WAN port."
+
+msgid 0xEE098F2D
+msgstr "Router admin page"
+
+msgid 0xEFF506A5
+msgstr "Access control"
+
+msgid 0x6CFD720F
+msgstr "Admin password"
+
+msgid 0x1826B4E0
+msgstr "System version"
+
+msgid 0xF4C4F236
+msgstr "Couldn't install update"
+
+msgid 0xE5A33909
+msgstr "Updating…"
+
+msgid 0x277B5D4E
+msgstr "Couldn't start router. Try restoring to factory settings."
+
+msgid 0x86C01633
+msgstr "Couldn't start router. No storage detected."
+
+msgid 0xAACE57D8
+msgstr "System error. Wait a minute or two and try again."
+
+msgid 0x01F04B43
+msgstr "Adjust speed automatically"
+
+msgid 0xE9D49A5D
+msgstr "No Ethernet connection detected."
+
+msgid 0x0BA43397
+msgstr "Couldn't test"
+
+msgid 0x624D782E
+msgstr "Version"
+
+msgid 0x7250E115
+msgstr "Status"
+
+msgid 0x40716A1F
+msgstr "Automatic"
+
+msgid 0x5853E682
+msgstr "Language"
+
+msgid 0x5240D212
+msgstr "System error. Wait a minute or two and try again."
+
+msgid 0xF4FB9360
+msgstr "System error. Wait a minute or two and try again."
+
+msgid 0x3D4E2EF7
+msgstr "Devices"
+
+msgid 0x076AC0D9
+msgstr "Routers can communicate when connected to the same network"
+
+msgid 0x614BB86C
+msgstr "Newfoundland Standard Time"
+
+msgid 0xF18A69F7
+msgstr "Connected devices bandwidth"
+
+msgid 0x456CF26A
+msgstr "Devices"
+
+msgid 0x866AF834
+msgstr "Check router's WAN port connection"
+
+msgid 0x218CAC06
+msgstr "DHCP recommended"
+
+msgid 0xD3BABF27
+msgstr "PPPoE recommended (username and password required)"
+
+msgid 0xBBDE7E96
+msgstr "Static IP recommended"
+
+msgid 0xD6EA354A
+msgstr "Couldn't detect network type. Choose type manually:"
+
+msgid 0xDBA2D024
+msgstr "Couldn't pair with router"
+
+msgid 0xBBF0D150
+msgstr "Paired devices"
+
+msgid 0x8B491AF6
+msgstr "End"
+
+msgid 0x0539AB56
+msgstr ""
+"When session {$pname} ends, related features won't work. If you want to use"
+" again, you shall start the task in this page. End {$pname}?"
+
+msgid 0x76BFA0D7
+msgstr "End IP"
+
+msgid 0x933A9235
+msgstr "End task"
+
+msgid 0x1B92EEB8
+msgstr "End port must be greater than start port"
+
+msgid 0x8E6E0A9D
+msgstr "End"
+
+msgid 0x765F7F95
+msgstr "Myanmar Standard Time"
+
+msgid 0x30C5E79B
+msgstr "Edit"
+
+msgid 0x81B2CFA8
+msgstr "Edit"
+
+msgid 0xF4B43EA7
+msgstr "Edit port forwarding rules"
+
+msgid 0x32F77B21
+msgstr "Edit range forwarding rules"
+
+msgid 0x30939932
+msgstr "Incomplete info"
+
+msgid 0x70AAC5DF
+msgstr "Gateway"
+
+msgid 0xF104861F
+msgstr "Couldn't reach gateway"
+
+msgid 0x5F576F53
+msgstr "Gateway address"
+
+msgid 0x64E596CE
+msgstr "Ethernet connected devices"
+
+msgid 0xB9A9A2DD
+msgstr "Network name"
+
+msgid 0x0A12CD0F
+msgstr "Password"
+
+msgid 0x7BE65E23
+msgstr ""
+"There's something wrong with the network. Try connecting to the internet."
+
+msgid 0x44DCF27E
+msgstr "Couldn't connect to server. Network is too busy."
+
+msgid 0x8E38860D
+msgstr "Connectivity issues detected on network"
+
+msgid 0x25809EDD
+msgstr "Network issues detected"
+
+msgid 0x08DB1F70
+msgstr "No issues detected"
+
+msgid 0x1A798D08
+msgstr "Connection speed"
+
+msgid 0xDA0BAAD5
+msgstr "Webpage first"
+
+msgid 0x120C8904
+msgstr "United States"
+
+msgid 0x036FEF73
+msgstr "Contact customer service"
+
+msgid 0x5A83E53A
+msgstr "Contact network provider to reset password"
+
+msgid 0x52B9D1B0
+msgstr "Contact service provider"
+
+msgid 0x21938C25
+msgstr ""
+"Contact your network provider to find out if there are any problems with"
+" local network"
+
+msgid 0x23A2D122
+msgstr ""
+"Contact your Internet Service Provider to reset username and password"
+
+msgid 0x1D4399C5
+msgstr "Check if you have sufficient funds on your balance"
+
+msgid 0xA19B5804
+msgstr "Contact your Internet Service Provider for more help"
+
+msgid 0x3AF04851
+msgstr "Internet connection settings"
+
+msgid 0xE7013168
+msgstr "Setting connection type"
+
+msgid 0x05C98611
+msgstr "Auto"
+
+msgid 0x0E689CDB
+msgstr "Auto mode"
+
+msgid 0x833A90CD
+msgstr "Manage bandwidth for connected devices automatically"
+
+msgid 0xBE6A213F
+msgstr "Couldn't connect to router automatically. "
+
+msgid 0x1BBCFAF7
+msgstr "Configure automatically"
+
+msgid 0x4E912D85
+msgstr "Configure DNS automatically"
+
+msgid 0x6B595A04
+msgstr "Auto (recommended)"
+
+msgid 0xAA3FA0AC
+msgstr "Other"
+
+msgid 0x219578CC
+msgstr "Can't use custom DNS"
+
+msgid 0xB3C8F1D1
+msgstr "Custom DNS service isn't responding"
+
+msgid 0x9A65CFED
+msgstr "Choose at least 1 item"
+
+msgid 0x957DCCD7
+msgstr "Good"
+
+msgid 0xCB5CCC64
+msgstr "Aipu Broadband"
+
+msgid 0xBFBFA0CE
+msgstr "Aipu broadband network service"
+
+msgid 0x9BEE9555
+msgstr "Energy saving"
+
+msgid 0x386FC05C
+msgstr "Oray service system error"
+
+msgid 0x486D21DF
+msgstr "Oray DDNS service"
+
+msgid 0x9B108A80
+msgstr "Range forwarding rules: "
+
+msgid 0x5929C4C9
+msgstr "Moscow Time"
+
+msgid 0x2C29177C
+msgstr "Couldn't get info"
+
+msgid 0x8C42D2EB
+msgstr "Just a sec…"
+
+msgid 0x87560B3C
+msgstr "Couldn't get file size"
+
+msgid 0xC3A717EC
+msgstr "Couldn't get developer info"
+
+msgid 0xF8953D2F
+msgstr "Couldn't get plug-in info"
+
+msgid 0x53DE3951
+msgstr "Couldn't get plug-ins"
+
+msgid 0x28335253
+msgstr "Couldn't get admin info"
+
+msgid 0x03DF6E8A
+msgstr "Couldn't get admin info"
+
+msgid 0x1043FAED
+msgstr "Philippines"
+
+msgid 0x7EC5EC99
+msgstr "Spain"
+
+msgid 0x093C7614
+msgstr "Applying settings…"
+
+msgid 0x54C4A0FE
+msgstr "Video first"
+
+msgid 0xE3E1EA0E
+msgstr "Solution"
+
+msgid 0x3DDBBA24
+msgstr "Unzip error, file is not intack"
+
+msgid 0x60D73076
+msgstr "Couldn't add account"
+
+msgid 0x5543E2C2
+msgstr "Removing…"
+
+msgid 0xB2711D33
+msgstr "Remove device"
+
+msgid 0x56782D73
+msgstr "Couldn't verify user"
+
+msgid 0x64DBA080
+msgstr "Device info"
+
+msgid 0xF8E97475
+msgstr "DEVICES"
+
+msgid 0x26C6ADEB
+msgstr "Device name"
+
+msgid 0x5F1106B1
+msgstr "Access permissions"
+
+msgid 0x3FE362DF
+msgstr "Device bandwidth"
+
+msgid 0x37E39B7E
+msgstr "Bandwidth limit"
+
+msgid 0xEC0E8BC8
+msgstr "DMZ settings"
+
+msgid 0x9504B536
+msgstr "Bandwidth management settings"
+
+msgid 0x1DE71E99
+msgstr "Set Wi-Fi name and password"
+
+msgid 0x40916FDE
+msgstr "Couldn't set up router"
+
+msgid 0xA05653B2
+msgstr "Rebooting router to apply settings. This takes about 30 seconds."
+
+msgid 0x9656796D
+msgstr "Storage settings saved"
+
+msgid 0x36099F64
+msgstr "Rebooting router to apply settings. This takes about 30 seconds."
+
+msgid 0x3B605D7A
+msgstr "Settings applied. Wait a minute or two and refresh"
+
+msgid 0x7651D664
+msgstr "Couldn't apply permissions settings"
+
+msgid 0x8A60DAA2
+msgstr "Couldn't get network IP."
+
+msgid 0xC0BA046B
+msgstr "Couldn't apply settings"
+
+msgid 0x9D2DAC02
+msgstr "The password you entered is invalid."
+
+msgid 0x25BA95CA
+msgstr "System language"
+
+msgid 0x3DBF06B0
+msgstr "Couldn't apply name"
+
+msgid 0x3C6F59D3
+msgstr "Guest Wi-Fi SSID need to be different with 2.4G SSID"
+
+msgid 0x66D0CFEF
+msgstr "Guest Wi-Fi"
+
+msgid 0x8557BB54
+msgstr "Couldn't apply settings. Check network name and password."
+
+msgid 0x3D79367C
+msgstr "Guest Wi-Fi bandwidth"
+
+msgid 0x120F6144
+msgstr "Connected devices"
+
+msgid 0x28D3B364
+msgstr "Internet access"
+
+msgid 0x00BD620D
+msgstr "Can't connect"
+
+msgid 0xFAE6DD10
+msgstr ""
+"This is not a dynamic domain name. It may be a smart domain name, static"
+" domain name, a subdomain name, etc."
+
+msgid 0x5021C7C3
+msgstr "Domain name exists, but doesn't belong to the user"
+
+msgid 0xF0105F11
+msgstr ""
+"Domain name closed by the system. Contact the service provider for"
+" assistance"
+
+msgid 0xBAF91F7B
+msgstr "This Mi Account is already associated with this router."
+
+msgid 0x29E55111
+msgstr "This port doesn't allow WAN access"
+
+msgid 0x6B847C05
+msgstr "This port can only be used remotely"
+
+msgid 0x0163EAB1
+msgstr ""
+"Router needs to reboot. Other devices in this network will be temporarily"
+" disconnected."
+
+msgid 0xE0920D3F
+msgstr "This mode allows you to switch between"
+
+msgid 0xE5F87AC3
+msgstr "This account doesn't have administrative privileges for this router"
+
+msgid 0x58C59257
+msgstr ""
+"This account doesn't have administrative  privileges for this router."
+
+msgid 0xD6C8CEEA
+msgstr ""
+"Wi-Fi network will be reset. Network connection may be lost briefly."
+
+msgid 0x9B47EA0E
+msgstr "Upload {$0}"
+
+msgid 0x08A83598
+msgstr ""
+"Keep browser open and make sure router stays connected to a power source."
+
+msgid 0x2575A610
+msgstr "Use Mi Wi-Fi app to manage"
+
+msgid 0x6CE288C8
+msgstr "Change DNS settings now"
+
+msgid 0x36BE5CCA
+msgstr "Read"
+
+msgid 0x5796A9FB
+msgstr "Keep router connected to power source."
+
+msgid 0xA9E66C66
+msgstr "Enter {$0}."
+
+msgid 0x4E838BA9
+msgstr "Browser"
+
+msgid 0x2FA38979
+msgstr "Connect to Wi-Fi first"
+
+msgid 0x06FBBB00
+msgstr "Choose mode"
+
+msgid 0xB34E464B
+msgstr "Check DNS settings"
+
+msgid 0x1B7B9A8B
+msgstr "Check Wi-Fi network extender senttings"
+
+msgid 0xF635DBB8
+msgstr "Check account name and password"
+
+msgid 0xB9BF8DFA
+msgstr "Check input fields"
+
+msgid 0x01A4B87F
+msgstr "Check the email address you ented"
+
+msgid 0x2BD53AF7
+msgstr "Check the name you entered"
+
+msgid 0xB2B62428
+msgstr "Check the phone number you entered"
+
+msgid 0x57171BFA
+msgstr "The format of the date you entered is invalid."
+
+msgid 0xEEFDD25A
+msgstr "Check the phone number extension you entered"
+
+msgid 0x0D7D2CE7
+msgstr "Check the area code you entered"
+
+msgid 0xCDA9D190
+msgstr "Check the phone number you entered"
+
+msgid 0x2BB3C137
+msgstr "Check the ID number you entered"
+
+msgid 0x04416A0C
+msgstr "Check the zip code you entered"
+
+msgid 0x1FAF492E
+msgstr "Check the account number you entered"
+
+msgid 0x5134BEE2
+msgstr "Check the verification code you entered"
+
+msgid 0xD536BC46
+msgstr "Only jpg, jpeg, png, gif, tif, or bmp file types are supported."
+
+msgid 0x5D200E44
+msgstr "Check your connection type"
+
+msgid 0x02F12573
+msgstr "Check router's connection settings"
+
+msgid 0xE97CCD7B
+msgstr "Check router's LAN IP address settings"
+
+msgid 0xFAA34F8B
+msgstr "Check router's Ethernet connection"
+
+msgid 0xA82D2989
+msgstr "Check static IP address"
+
+msgid 0x1EB727E0
+msgstr "Couldn't request"
+
+msgid 0x6692AED9
+msgstr "Request time out, too many requests or failed validation."
+
+msgid 0x455440A7
+msgstr ""
+"Devices will be disconnected from network while router is updating. Keep"
+" router connecting to power source during update."
+
+msgid 0xAC55ED1B
+msgstr "Just a sec…"
+
+msgid 0x2684C9B1
+msgstr "Just a sec…"
+
+msgid 0x5EB34D43
+msgstr "Contact Xiaomi customer support"
+
+msgid 0xAA286E53
+msgstr "Contact your service provider"
+
+msgid 0x38D943BF
+msgstr "Use {$0} characters or more"
+
+msgid 0xBE621FEE
+msgstr "Use {$0} characters or more"
+
+msgid 0x7E7BFF9D
+msgstr "Choose a device"
+
+msgid 0xD1F3C92D
+msgstr "Set Wi-Fi network name and password"
+
+msgid 0xCBA8E50C
+msgstr "Set new network name and password"
+
+msgid 0x8F939C22
+msgstr "Enter network name and password"
+
+msgid 0xDE0E7EC5
+msgstr "Set admin password"
+
+msgid 0x7955454A
+msgstr "Enter a complete {$0}"
+
+msgid 0xF2350645
+msgstr "Enter address"
+
+msgid 0x01D8A3BE
+msgstr "The router name you entered is invalid"
+
+msgid 0x28228FCD
+msgstr ""
+"Enter the username and password provided by your Internet Service Provider"
+
+msgid 0x4AD4EA0C
+msgstr "Enter device's MAC address"
+
+msgid 0x0EC0197B
+msgstr "Enter router admin password"
+
+msgid 0xEC1E4575
+msgstr "Choose {$0}"
+
+msgid 0x0F345344
+msgstr "Choose update"
+
+msgid 0x06930A23
+msgstr "Select files to back up"
+
+msgid 0xCFF21B82
+msgstr "Choose locale"
+
+msgid 0x0129E6AE
+msgstr ""
+"Choose an existing wireless network to repeat or enter the SSID and password"
+
+msgid 0x45FAFDD4
+msgstr "Choose Wi-Fi network to extend"
+
+msgid 0x663354DB
+msgstr "Choose service provider"
+
+msgid 0x76052A5D
+msgstr "Select devices to connect to VPN"
+
+msgid 0x65F1543A
+msgstr "Norfolk Island Standard Time"
+
+msgid 0xF3662ACA
+msgstr "Modem couldn't dial successfully"
+
+msgid 0x1E01F702
+msgstr "Mi Account"
+
+msgid 0x1D585427
+msgstr "Couldn't verify account."
+
+msgid 0x15C35EDA
+msgstr "Mi Account:"
+
+msgid 0xB0629B19
+msgstr "Start date can't be later than end date."
+
+msgid 0x03CEC94A
+msgstr "Start port"
+
+msgid 0xA96CDCFB
+msgstr "Vietnam"
+
+msgid 0x1DB500BF
+msgstr "Update router"
+
+msgid 0xC425F35A
+msgstr "No connection detected in WAN port"
+
+msgid 0xA7212691
+msgstr "Location"
+
+msgid 0xA1360C81
+msgstr "Router info"
+
+msgid 0x53AD3F9A
+msgstr "Power off"
+
+msgid 0xF77797C1
+msgstr "Router name and admin password"
+
+msgid 0x029A30B5
+msgstr "Name"
+
+msgid 0x1B14D956
+msgstr "Couldn't set router name"
+
+msgid 0xA962105A
+msgstr "Model"
+
+msgid 0xE7F41CC8
+msgstr "Mode (Set up Wi-Fi network)"
+
+msgid 0xCA1F0D8C
+msgstr "Not enough storage space"
+
+msgid 0x788F6D6D
+msgstr "Update manually"
+
+msgid 0xFEA81BC2
+msgstr ""
+"Use the Updates plug-in to update your router. If this doesn't work,"
+" download the update and flash the router manually."
+
+msgid 0x5720AAFF
+msgstr "No Ethernet cable detected"
+
+msgid 0x6986CAC5
+msgstr "Status"
+
+msgid 0x18B22385
+msgstr "Couldn't set router admin password"
+
+msgid 0x2AC4E60F
+msgstr "Router ports aren't working normally."
+
+msgid 0x6FA0613C
+msgstr "Router's bandwidth"
+
+msgid 0x3C956CCD
+msgstr "Settings restored. Restart your router to apply them"
+
+msgid 0x94BA5A04
+msgstr "All set! Ready to go! What's new in this version"
+
+msgid 0xF81B88E8
+msgstr "The router will connect to network after reboot"
+
+msgid 0xDB33653A
+msgstr ""
+"Reboot the router and wait 10 seconds. All devices will be disconnected"
+" temporarily while the router reboots."
+
+msgid 0xF670A799
+msgstr "Update manually"
+
+msgid 0xCCE7F575
+msgstr "Status"
+
+msgid 0x6BB87223
+msgstr "Settings"
+
+msgid 0x090F357D
+msgstr "Switch"
+
+msgid 0xB33DEC7F
+msgstr "Skip"
+
+msgid 0xC99C143A
+msgstr "Skip this step"
+
+msgid 0xCF298202
+msgstr ""
+"Authentication error. Check if the username and password are entered"
+" correctly"
+
+msgid 0x16908A4F
+msgstr "Enter"
+
+msgid 0x910B11C3
+msgstr "This field can't be empty"
+
+msgid 0xF821E328
+msgstr "Use {$0} characters or less"
+
+msgid 0x9D46EF52
+msgstr "Use {$0} characters or more"
+
+msgid 0xB4BECFFC
+msgstr "Enter password"
+
+msgid 0x52E8C633
+msgstr "Service provider"
+
+msgid 0x0E4F1798
+msgstr "Contact service provider"
+
+msgid 0x9709CFC5
+msgstr "Back"
+
+msgid 0xABAE4260
+msgstr "No addresses added"
+
+msgid 0xEA3898A1
+msgstr "Devices not added"
+
+msgid 0xAFC1D371
+msgstr "No devices"
+
+msgid 0x3870C4A3
+msgstr "No devices"
+
+msgid 0x099A5AF0
+msgstr "No devices"
+
+msgid 0x89407AD9
+msgstr "Never tested"
+
+msgid 0x47549B85
+msgstr "Far Eastern Standard Time"
+
+msgid 0x4BA34D8A
+msgstr "Connect"
+
+msgid 0x57998320
+msgstr "Connecting…"
+
+msgid 0xA8BE3F8D
+msgstr "Couldn't connect"
+
+msgid 0xF7D481B5
+msgstr "Connection error"
+
+msgid 0x1769F5C8
+msgstr "Connection time"
+
+msgid 0x5FD8353F
+msgstr "Connected"
+
+msgid 0x024BB945
+msgstr "Connection type"
+
+msgid 0xC93D8AD8
+msgstr "Connection type"
+
+msgid 0xFB8FA769
+msgstr "Couldn't connect"
+
+msgid 0xBD520C4E
+msgstr "Optional"
+
+msgid 0x7B437C69
+msgstr "Choose existing network"
+
+msgid 0x0BF3C734
+msgstr "Choose network"
+
+msgid 0x5220483F
+msgstr "Add using MAC address"
+
+msgid 0xD830F970
+msgstr "Add VPN devices using MAC address"
+
+msgid 0xBB68EA54
+msgstr "Add devices using MAC address"
+
+msgid 0x13495001
+msgstr "Restore routing using OTA update"
+
+msgid 0x446F1E72
+msgstr ""
+"You can add downloads through mobile app or desktop client anywhere, anytime"
+
+msgid 0x3707FB83
+msgstr "Better performance, especially for devices nearby"
+
+msgid 0xADC86B1F
+msgstr "Speed"
+
+msgid 0x772BE619
+msgstr "Avoid IP conflicts"
+
+msgid 0x6124A047
+msgstr "Just a sec…"
+
+msgid 0x4E2014BE
+msgstr "Config backup fail"
+
+msgid 0x01B645FA
+msgstr "Set up successfully"
+
+msgid 0x06B0943B
+msgstr "Just a sec…"
+
+msgid 0x0080FE49
+msgstr "Config error"
+
+msgid 0x04D13D81
+msgstr "Reboot"
+
+msgid 0x5918ECF8
+msgstr "Rebooting…"
+
+msgid 0x9B0D0C01
+msgstr "Reboot router?"
+
+msgid 0x6CE847B3
+msgstr "Test again"
+
+msgid 0x974C90A8
+msgstr "Test again"
+
+msgid 0xD8F855D7
+msgstr "Enter again"
+
+msgid 0x612BB91D
+msgstr ""
+"This setting will be applied after you connect again. VPN for Mi services"
+" will be turned off"
+
+msgid 0x1EDAE9B4
+msgstr ""
+"Notice: If the superior router isn't a Mi Wi-Fi, the IP address may changed"
+" by the upper router. Install Miwifi app to manage your device in that case"
+
+msgid 0x50E2FA72
+msgstr "Try again"
+
+msgid 0x3B00C5F6
+msgstr "Reconnect"
+
+msgid 0x014B6561
+msgstr "Tietong broadband network service"
+
+msgid 0x2C258A5B
+msgstr "Error code"
+
+msgid 0x5671F2BC
+msgstr "Error code: 691"
+
+msgid 0xA4BEA8D1
+msgstr "Great Wall Broadband"
+
+msgid 0xA7BF6A4F
+msgstr "Great Wall broadband network service"
+
+msgid 0x6BA9520D
+msgstr "Troubleshooting"
+
+msgid 0x10B62C77
+msgstr "Afghanistan Time"
+
+msgid 0xF32C1B7A
+msgstr "Alaska Time Zone"
+
+msgid 0xAC85CEBD
+msgstr "Manage bandwidth"
+
+msgid 0x1374FD9B
+msgstr "Hide network"
+
+msgid 0xEB7AF845
+msgstr "PPPoE"
+
+msgid 0x3A2B197C
+msgstr "Static IP address"
+
+msgid 0xB022538D
+msgstr "Invalid static IP address"
+
+msgid 0x89B61F0D
+msgstr "Static IP disconnected"
+
+msgid 0x040A68AD
+msgstr "Korea"
+
+msgid 0xDD5EE73D
+msgstr "Bandwidth"
+
+msgid 0xF564C4E0
+msgstr "Start page"
+
+msgid 0x54498999
+msgstr "Hong Kong"
+
+msgid 0x00772F59
+msgstr "Marquesas Time"
+
+msgid 0xFB621BD0
+msgstr "Malaysia"
+
+msgid 0x200511E0
+msgstr "High"
+
+msgid 0xE06E85BD
+msgstr "Advanced"
+
+msgid 0x8521D2BE
+msgstr "Dr. Peng"
+
+msgid 0xB7656DE9
+msgstr "Blocklist"
+
+msgid 0x5DA40E8E
+msgstr "Blocklist"
+
+msgid 0x6F2B51B7
+msgstr "Invalid default gateway"
+
+msgid 0x61AE1E2D
+msgstr "Default gateway: "
+
+msgid 0xEA4AAC05
+msgstr ""
+"), make sure the password you entered is correct or ask your Internet"
+" Service Provider for more information"
+
+msgid 0x47542B27
+msgstr ", trying special dial mode…"
+
